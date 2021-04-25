@@ -1,7 +1,9 @@
 # awesome-ai-programming-competitions
 List of competitions that involve programming a virtual agent / ai to compete (and do not necessarily require reinforcement learning)
 
-Contains links to competitions, whether they are active, and languages allowed
+Contains links to competitions, whether they are active, and languages allowed.
+
+Feel free to make a pull request to add any missing competitions or update the short descriptions for them!
 
 ## Active Competitions
 - [AI Cup](https://russianaicup.ru/) - Organized by [Mail.ru](https://mail.ru/) and [Codeforces](https://codeforces.com/). Control units in a special world to score more points. [C++, C#, F#, D, Go, Java, Kotlin, Scala, Python, Ruby, JavaScript, Rust][2012 - Now]
