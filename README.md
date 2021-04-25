@@ -1,4 +1,4 @@
-# awesome-ai-programming-competitions
+# awesome-ai-programming-competitions 🤖
 List of competitions that involve programming a virtual agent / ai to compete (and do not necessarily require reinforcement learning)
 
 Contains links to competitions, whether they are active, and languages allowed.
