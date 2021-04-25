@@ -12,7 +12,7 @@ Feel free to make a pull request to add any missing competitions or update the s
 - [Battlesnake](https://play.battlesnake.com/) - Developed by Battlesnake. The snake game but with multiple agents competing for survival in a tight space. [Deploy your own web server][2018 - Now]
 - [Halite](http://halite.io/) - Originally developed by [Two Sigma](https://www.twosigma.com/) and is still active, but now on [Kaggle](https://kaggle.com). Multivariable resource optimization around a resource called Halite. [Python][2016 - Now]
 - [Lux AI Challenge](https://lux-ai.org) - Developed by Lux AI Challenge. User centered competition designs, multivariable resource optimization competing against opponents. [JS, Python, Go, Java, C++][2021 - Now]
-- [Mech Mania](https://reflectionsprojections.org/) - Developed by the Mech Mania team at [UIUC's ACM Chapter](https://acm.illinois.edu/) for their annual conference. [Java, Python][1995 - Now]
+- [Mech Mania](https://reflectionsprojections.org/) - Developed by the Mech Mania team at [UIUC's ACM Chapter](https://acm.illinois.edu/) for their annual conference. 24 hour hackathon style, control virtual robots [Java, Python][1995 - Now]
 - [Robot Rumble](https://robotrumble.org/) - Developed by Robot Rumble. Simple robot battling game on a circular map written in Rust, Scala, and Elm, teams control virtual robots to defeat each other. [JS, Python][2021 - Now]
 - [Terminal](https://terminal.c1games.com/home) - Developed by [Correlation One](https://www.correlation-one.com/). Auto chess game, spawn structures and units to defeat the opponent. [Python, Rust, Java][2013 - Now]
 
