@@ -10,8 +10,8 @@ Feel free to make a pull request to add any missing competitions or update the s
 - [AI Coliseum](https://www.coliseum.ai/) - Developed by a Catalonia based team. Real time strategy, manage units, resources, and compete against opponents [Java][2018 - Now]
 - [Battlecode](https://battlecode.org/) - [MIT's](https://web.mit.edu/) premier, longest-running, programming competition. Real time strategy, managing a robot army, resources, communication etc. to defeat the opponents. [Java][2003 - Now]
 - [Halite](http://halite.io/) - Originally developed by [Two Sigma](https://www.twosigma.com/) and is still active, but now on [Kaggle](https://kaggle.com). Multivariable resource optimization around a resource called Halite. [Python][2016 - Now]
-- [Lux AI Challenge](https://lux-ai.org) - Developed by Lux AI Challenge. User centered competition designs, multivariable resource optimization. [JS, Python, Go, Java, C++][2021 - Now]
-- [Robot Rumble](https://robotrumble.org/) - Developed by Robot Rumble. Simple robot battling game on a circular map written in Rust, Scala, and Elm. [JS, Python][2021 - Now]
+- [Lux AI Challenge](https://lux-ai.org) - Developed by Lux AI Challenge. User centered competition designs, multivariable resource optimization competing against opponents. [JS, Python, Go, Java, C++][2021 - Now]
+- [Robot Rumble](https://robotrumble.org/) - Developed by Robot Rumble. Simple robot battling game on a circular map written in Rust, Scala, and Elm, teams control virtual robots to defeat each other. [JS, Python][2021 - Now]
 - [Terminal](https://terminal.c1games.com/home) - Developed by [Correlation One](https://www.correlation-one.com/). Auto chess game, spawn structures and units to defeat the opponent. [Python, Rust, Java][2013 - Now]
 
 ## Inactive Competitions
